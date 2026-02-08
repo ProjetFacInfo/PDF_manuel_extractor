@@ -1,0 +1,552 @@
+[
+    {
+        "text": "PACKAGE OUTLINE",
+        "raw_text": "PACKAGE OUTLINE",
+        "box": [
+            683,
+            58,
+            931,
+            84
+        ]
+    },
+    {
+        "text": "DBV0005A",
+        "raw_text": "DBV0005A",
+        "box": [
+            95,
+            97,
+            234,
+            125
+        ]
+    },
+    {
+        "text": "SOT-23 - 1.45 MMM MAX HEIGHT",
+        "raw_text": "SOT-23 - 1.45 MMM MAX HEIGHT",
+        "box": [
+            630,
+            99,
+            934,
+            128
+        ]
+    },
+    {
+        "text": "SMALL OUTLINE TRANSISTER",
+        "raw_text": "SMALL OUTLINE TRANSISTER",
+        "box": [
+            728,
+            135,
+            932,
+            156
+        ]
+    },
+    {
+        "text": "3.0",
+        "raw_text": "3.0",
+        "box": [
+            351,
+            207,
+            379,
+            229
+        ]
+    },
+    {
+        "text": "[C]",
+        "raw_text": "[C]",
+        "box": [
+            759,
+            203,
+            783,
+            227
+        ]
+    },
+    {
+        "text": "2.6",
+        "raw_text": "2.6",
+        "box": [
+            351,
+            222,
+            379,
+            244
+        ]
+    },
+    {
+        "text": "0.10",
+        "raw_text": "0.10",
+        "box": [
+            693,
+            237,
+            771,
+            261
+        ]
+    },
+    {
+        "text": "1.75",
+        "raw_text": "1.75",
+        "box": [
+            346,
+            245,
+            383,
+            268
+        ]
+    },
+    {
+        "text": "1.45",
+        "raw_text": "1.45",
+        "box": [
+            347,
+            260,
+            383,
+            283
+        ]
+    },
+    {
+        "text": "PIN1",
+        "raw_text": "PIN1-",
+        "box": [
+            178,
+            271,
+            220,
+            291
+        ]
+    },
+    {
+        "text": "INDEX AREA",
+        "raw_text": "INDEX AREA",
+        "box": [
+            131,
+            285,
+            221,
+            306
+        ]
+    },
+    {
+        "text": "2X",
+        "raw_text": "2X",
+        "box": [
+            170,
+            369,
+            194,
+            388
+        ]
+    },
+    {
+        "text": "0.95",
+        "raw_text": "0.95",
+        "box": [
+            192,
+            367,
+            230,
+            390
+        ]
+    },
+    {
+        "text": "(0.1)",
+        "raw_text": "(0.1)",
+        "box": [
+            485,
+            366,
+            522,
+            387
+        ]
+    },
+    {
+        "text": "3.05",
+        "raw_text": "3.05",
+        "box": [
+            567,
+            379,
+            603,
+            400
+        ]
+    },
+    {
+        "text": "2.75",
+        "raw_text": "2.75",
+        "box": [
+            566,
+            392,
+            603,
+            415
+        ]
+    },
+    {
+        "text": ".9",
+        "raw_text": ".9",
+        "box": [
+            152,
+            411,
+            166,
+            426
+        ]
+    },
+    {
+        "text": "1.9",
+        "raw_text": "1.9",
+        "box": [
+            529,
+            408,
+            560,
+            430
+        ]
+    },
+    {
+        "text": "(0.15)",
+        "raw_text": "(0.15)",
+        "box": [
+            482,
+            438,
+            526,
+            460
+        ]
+    },
+    {
+        "text": "3",
+        "raw_text": "3",
+        "box": [
+            246,
+            519,
+            260,
+            534
+        ]
+    },
+    {
+        "text": "0.5",
+        "raw_text": "0.5",
+        "box": [
+            176,
+            526,
+            203,
+            545
+        ]
+    },
+    {
+        "text": "5X",
+        "raw_text": "5X",
+        "box": [
+            157,
+            532,
+            180,
+            552
+        ]
+    },
+    {
+        "text": "0.3",
+        "raw_text": "0.3",
+        "box": [
+            174,
+            538,
+            204,
+            559
+        ]
+    },
+    {
+        "text": "0.15",
+        "raw_text": "0.15",
+        "box": [
+            833,
+            550,
+            869,
+            570
+        ]
+    },
+    {
+        "text": "@ 0.2@ CAB",
+        "raw_text": "@ 0.2@ CAB",
+        "box": [
+            158,
+            556,
+            279,
+            580
+        ]
+    },
+    {
+        "text": "NOTE 5",
+        "raw_text": "-NOTE 5-",
+        "box": [
+            501,
+            556,
+            562,
+            580
+        ]
+    },
+    {
+        "text": "4X 0%-15%",
+        "raw_text": "4X 0%-15%",
+        "box": [
+            596,
+            558,
+            665,
+            583
+        ]
+    },
+    {
+        "text": "(11)",
+        "raw_text": "(11)",
+        "box": [
+            732,
+            556,
+            791,
+            578
+        ]
+    },
+    {
+        "text": "TYP",
+        "raw_text": "TYP",
+        "box": [
+            862,
+            556,
+            896,
+            576
+        ]
+    },
+    {
+        "text": "0.00",
+        "raw_text": "0.00",
+        "box": [
+            832,
+            564,
+            868,
+            584
+        ]
+    },
+    {
+        "text": "1.45",
+        "raw_text": "1.45",
+        "box": [
+            738,
+            583,
+            775,
+            604
+        ]
+    },
+    {
+        "text": "0.90",
+        "raw_text": "0.90",
+        "box": [
+            739,
+            598,
+            774,
+            618
+        ]
+    },
+    {
+        "text": "4X 4°-15°",
+        "raw_text": "4X 4\"-15º",
+        "box": [
+            466,
+            617,
+            528,
+            636
+        ]
+    },
+    {
+        "text": "[0.25}",
+        "raw_text": "[0.25}",
+        "box": [
+            149,
+            678,
+            190,
+            703
+        ]
+    },
+    {
+        "text": "GAGE PLANE",
+        "raw_text": "GAGE PLANE",
+        "box": [
+            97,
+            701,
+            191,
+            722
+        ]
+    },
+    {
+        "text": "0.22",
+        "raw_text": "0.22",
+        "box": [
+            537,
+            703,
+            573,
+            723
+        ]
+    },
+    {
+        "text": "0.08",
+        "raw_text": "0.08",
+        "box": [
+            536,
+            715,
+            573,
+            739
+        ]
+    },
+    {
+        "text": "TYP",
+        "raw_text": "TYP",
+        "box": [
+            567,
+            710,
+            602,
+            731
+        ]
+    },
+    {
+        "text": "0.6",
+        "raw_text": "0.6",
+        "box": [
+            301,
+            782,
+            330,
+            803
+        ]
+    },
+    {
+        "text": "TYP",
+        "raw_text": "TYP",
+        "box": [
+            323,
+            789,
+            358,
+            809
+        ]
+    },
+    {
+        "text": "0.3",
+        "raw_text": "0.3",
+        "box": [
+            300,
+            796,
+            330,
+            817
+        ]
+    },
+    {
+        "text": "SEATING PLANE",
+        "raw_text": "-SEATING PLANE",
+        "box": [
+            417,
+            793,
+            531,
+            815
+        ]
+    },
+    {
+        "text": "4214839/K 08/2024",
+        "raw_text": "4214839/K 08/2024",
+        "box": [
+            804,
+            1038,
+            936,
+            1059
+        ]
+    },
+    {
+        "text": "NOTES:",
+        "raw_text": "NOTES:",
+        "box": [
+            90,
+            1066,
+            150,
+            1088
+        ]
+    },
+    {
+        "text": "L.AL INEX ADMERSIONS ARE IN MILIMETS ANYDIMERSIONS IN",
+        "raw_text": "L.AL INEX ADMERSIONS ARE IN MILIMETS ANYDIMERSIONS IN",
+        "box": [
+            89,
+            1094,
+            874,
+            1118
+        ]
+    },
+    {
+        "text": "PER ASME Y14.5M.",
+        "raw_text": "PER ASME Y14.5M.",
+        "box": [
+            105,
+            1108,
+            232,
+            1134
+        ]
+    },
+    {
+        "text": "2. THIS DRAWING IS SUBJECT TO CHANGE WITHOUT NOTICE.",
+        "raw_text": "2. THIS DRAWING IS SUBJECT TO CHANGE WITHOUT NOTICE.",
+        "box": [
+            89,
+            1125,
+            411,
+            1148
+        ]
+    },
+    {
+        "text": "3. REFERNCE JEDEC MO-178.",
+        "raw_text": "3. REFERNCE JEDEC MO-178.",
+        "box": [
+            91,
+            1142,
+            276,
+            1161
+        ]
+    },
+    {
+        "text": "4. BODY DIMENS OR NOT INCLUDE MADD FASH, DOMOS",
+        "raw_text": "4. BODY DIMENS OR NOT INCLUDE MADD FASH, DOMOS",
+        "box": [
+            90,
+            1156,
+            831,
+            1177
+        ]
+    },
+    {
+        "text": "EXCEED 0.25 MM PER SIDE.",
+        "raw_text": "EXCEED 0.25 MM PER SIDE.",
+        "box": [
+            106,
+            1171,
+            272,
+            1192
+        ]
+    },
+    {
+        "text": "5. SUPPORT PIN MAY DIFIER OR MAY NOT BE PRESENT.",
+        "raw_text": "5. SUPPORT PIN MAY DIFIER OR MAY NOT BE PRESENT.",
+        "box": [
+            89,
+            1184,
+            393,
+            1210
+        ]
+    },
+    {
+        "text": "TEXAS",
+        "raw_text": "TEXAS",
+        "box": [
+            490,
+            1248,
+            554,
+            1278
+        ]
+    },
+    {
+        "text": "INSTRUMENTS",
+        "raw_text": "INSTRUMENTS",
+        "box": [
+            491,
+            1268,
+            626,
+            1296
+        ]
+    },
+    {
+        "text": "WWW.TI.COM",
+        "raw_text": "WWW.TI.COM",
+        "box": [
+            499,
+            1290,
+            586,
+            1312
+        ]
+    }
+]

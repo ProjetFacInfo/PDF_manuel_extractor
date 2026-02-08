@@ -1,0 +1,602 @@
+[
+    {
+        "text": "PACKAGE OUTLINE",
+        "raw_text": "PACKAGE OUTLINE",
+        "box": [
+            679,
+            54,
+            935,
+            89
+        ]
+    },
+    {
+        "text": "DBVOOOSA",
+        "raw_text": "DBVOOOSA",
+        "box": [
+            94,
+            95,
+            236,
+            129
+        ]
+    },
+    {
+        "text": "SOT-23",
+        "raw_text": "SOT-23",
+        "box": [
+            628,
+            98,
+            714,
+            129
+        ]
+    },
+    {
+        "text": "1.45 mm max height",
+        "raw_text": "1.45 mm max height",
+        "box": [
+            719,
+            99,
+            936,
+            133
+        ]
+    },
+    {
+        "text": "SMALL OUTLINE TRANSISTOR",
+        "raw_text": "SMALL OUTLINE TRANSISTOR",
+        "box": [
+            725,
+            133,
+            933,
+            157
+        ]
+    },
+    {
+        "text": "3.0_",
+        "raw_text": "3.0_",
+        "box": [
+            350,
+            207,
+            380,
+            229
+        ]
+    },
+    {
+        "text": "2.6",
+        "raw_text": "2.6",
+        "box": [
+            350,
+            222,
+            379,
+            244
+        ]
+    },
+    {
+        "text": "lo1",
+        "raw_text": "lo1",
+        "box": [
+            722,
+            239,
+            751,
+            260
+        ]
+    },
+    {
+        "text": "C",
+        "raw_text": "C",
+        "box": [
+            752,
+            242,
+            765,
+            256
+        ]
+    },
+    {
+        "text": ".1,75 _",
+        "raw_text": ".1,75 _",
+        "box": [
+            346,
+            246,
+            383,
+            268
+        ]
+    },
+    {
+        "text": "A",
+        "raw_text": "A",
+        "box": [
+            578,
+            259,
+            592,
+            273
+        ]
+    },
+    {
+        "text": "1.45 `",
+        "raw_text": "1.45 `",
+        "box": [
+            347,
+            260,
+            383,
+            282
+        ]
+    },
+    {
+        "text": "PIN 1",
+        "raw_text": "PIN 1-",
+        "box": [
+            177,
+            270,
+            220,
+            292
+        ]
+    },
+    {
+        "text": "INDEX AREA",
+        "raw_text": "INDEX AREA",
+        "box": [
+            130,
+            284,
+            221,
+            307
+        ]
+    },
+    {
+        "text": "5",
+        "raw_text": "5",
+        "box": [
+            485,
+            318,
+            502,
+            337
+        ]
+    },
+    {
+        "text": "2x[0.95]",
+        "raw_text": "2x[0.95]",
+        "box": [
+            168,
+            367,
+            229,
+            390
+        ]
+    },
+    {
+        "text": "(0.1)",
+        "raw_text": " (0.1)",
+        "box": [
+            482,
+            364,
+            522,
+            389
+        ]
+    },
+    {
+        "text": "3.05",
+        "raw_text": "3.05",
+        "box": [
+            566,
+            379,
+            604,
+            401
+        ]
+    },
+    {
+        "text": "2.75",
+        "raw_text": "2.75",
+        "box": [
+            566,
+            392,
+            604,
+            415
+        ]
+    },
+    {
+        "text": "4g]",
+        "raw_text": "4g]",
+        "box": [
+            140,
+            408,
+            169,
+            430
+        ]
+    },
+    {
+        "text": "L9",
+        "raw_text": "L9",
+        "box": [
+            529,
+            408,
+            558,
+            430
+        ]
+    },
+    {
+        "text": "2",
+        "raw_text": "2",
+        "box": [
+            227,
+            419,
+            243,
+            438
+        ]
+    },
+    {
+        "text": "(0.15)",
+        "raw_text": "(0.15)",
+        "box": [
+            480,
+            437,
+            527,
+            461
+        ]
+    },
+    {
+        "text": "3",
+        "raw_text": "3",
+        "box": [
+            246,
+            519,
+            261,
+            535
+        ]
+    },
+    {
+        "text": "0.5 _",
+        "raw_text": "0.5 _",
+        "box": [
+            174,
+            524,
+            205,
+            546
+        ]
+    },
+    {
+        "text": "sx03",
+        "raw_text": "sx03",
+        "box": [
+            155,
+            530,
+            205,
+            561
+        ]
+    },
+    {
+        "text": "0.15 _",
+        "raw_text": "0.15 _",
+        "box": [
+            831,
+            549,
+            868,
+            571
+        ]
+    },
+    {
+        "text": "[2",
+        "raw_text": "[2",
+        "box": [
+            182,
+            557,
+            221,
+            580
+        ]
+    },
+    {
+        "text": "TA]",
+        "raw_text": "TA]",
+        "box": [
+            225,
+            556,
+            279,
+            580
+        ]
+    },
+    {
+        "text": "NOTE 5",
+        "raw_text": "NOTE 5",
+        "box": [
+            503,
+            558,
+            563,
+            580
+        ]
+    },
+    {
+        "text": "4X 0?-15?",
+        "raw_text": "4X 0?-15?",
+        "box": [
+            596,
+            559,
+            664,
+            583
+        ]
+    },
+    {
+        "text": "(1.1) _",
+        "raw_text": "(1.1) _",
+        "box": [
+            733,
+            556,
+            772,
+            580
+        ]
+    },
+    {
+        "text": "0.06 TYP",
+        "raw_text": "0.06 TYP",
+        "box": [
+            830,
+            555,
+            898,
+            586
+        ]
+    },
+    {
+        "text": "1.45 _",
+        "raw_text": "1.45 _",
+        "box": [
+            738,
+            583,
+            775,
+            605
+        ]
+    },
+    {
+        "text": "(0.90 `",
+        "raw_text": "(0.90 `",
+        "box": [
+            737,
+            597,
+            775,
+            619
+        ]
+    },
+    {
+        "text": "4x 4-15?",
+        "raw_text": "4x 4-15?",
+        "box": [
+            465,
+            615,
+            533,
+            639
+        ]
+    },
+    {
+        "text": "[25]",
+        "raw_text": "[25]",
+        "box": [
+            150,
+            680,
+            188,
+            702
+        ]
+    },
+    {
+        "text": "GAGE PLANE",
+        "raw_text": "GAGE PLANE",
+        "box": [
+            96,
+            700,
+            192,
+            723
+        ]
+    },
+    {
+        "text": ".0.22 _",
+        "raw_text": ".0.22 _",
+        "box": [
+            535,
+            702,
+            574,
+            724
+        ]
+    },
+    {
+        "text": "TYP",
+        "raw_text": "TYP",
+        "box": [
+            566,
+            709,
+            603,
+            731
+        ]
+    },
+    {
+        "text": "0.08",
+        "raw_text": "0.08",
+        "box": [
+            535,
+            716,
+            574,
+            738
+        ]
+    },
+    {
+        "text": "88",
+        "raw_text": "88",
+        "box": [
+            111,
+            774,
+            127,
+            792
+        ]
+    },
+    {
+        "text": "60 TYP ",
+        "raw_text": "60 TYP -",
+        "box": [
+            110,
+            779,
+            165,
+            808
+        ]
+    },
+    {
+        "text": "0.6 TYP",
+        "raw_text": "0.6 TYP",
+        "box": [
+            300,
+            781,
+            359,
+            811
+        ]
+    },
+    {
+        "text": "0.3",
+        "raw_text": "0.3",
+        "box": [
+            299,
+            796,
+            331,
+            818
+        ]
+    },
+    {
+        "text": "~SEATING PLANE",
+        "raw_text": "~SEATING PLANE",
+        "box": [
+            416,
+            793,
+            532,
+            815
+        ]
+    },
+    {
+        "text": "4214839/K",
+        "raw_text": "4214839/K",
+        "box": [
+            803,
+            1037,
+            878,
+            1060
+        ]
+    },
+    {
+        "text": "08/2024",
+        "raw_text": "08/2024",
+        "box": [
+            878,
+            1037,
+            937,
+            1060
+        ]
+    },
+    {
+        "text": "NOTES:",
+        "raw_text": "NOTES:",
+        "box": [
+            89,
+            1065,
+            152,
+            1088
+        ]
+    },
+    {
+        "text": "1. AIl linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only: Dimensioning and tolerancing",
+        "raw_text": "1. AIl linear dimensions are in millimeters. Any dimensions in parenthesis are for reference only: Dimensioning and tolerancing",
+        "box": [
+            89,
+            1092,
+            876,
+            1121
+        ]
+    },
+    {
+        "text": "per ASME Y1ASM",
+        "raw_text": "per ASME Y1ASM",
+        "box": [
+            103,
+            1110,
+            235,
+            1135
+        ]
+    },
+    {
+        "text": "2 This drawing is subiect to change without notice.",
+        "raw_text": "2 This drawing is subiect to change without notice.",
+        "box": [
+            89,
+            1123,
+            414,
+            1151
+        ]
+    },
+    {
+        "text": "3. Refernce JEDEC MO-178.",
+        "raw_text": "3. Refernce JEDEC MO-178.",
+        "box": [
+            89,
+            1139,
+            279,
+            1162
+        ]
+    },
+    {
+        "text": "4.",
+        "raw_text": "4.",
+        "box": [
+            90,
+            1156,
+            110,
+            1175
+        ]
+    },
+    {
+        "text": "Body dimensions do not include mold flash, protrusions, or gate burrs. Mold flash, protrusions, or gate burrs shall not",
+        "raw_text": "Body dimensions do not include mold flash, protrusions, or gate burrs. Mold flash, protrusions, or gate burrs shall not",
+        "box": [
+            104,
+            1154,
+            833,
+            1181
+        ]
+    },
+    {
+        "text": "~exceed 0.25 mm per side:",
+        "raw_text": "~exceed 0.25 mm per side:",
+        "box": [
+            104,
+            1170,
+            275,
+            1195
+        ]
+    },
+    {
+        "text": "5. Support pin may differ or may not be present",
+        "raw_text": "5. Support pin may differ or may not be present",
+        "box": [
+            89,
+            1184,
+            394,
+            1211
+        ]
+    },
+    {
+        "text": "EXAS",
+        "raw_text": "EXAS",
+        "box": [
+            486,
+            1248,
+            555,
+            1278
+        ]
+    },
+    {
+        "text": "NNSTRUMENTS",
+        "raw_text": "NNSTRUMENTS",
+        "box": [
+            488,
+            1265,
+            628,
+            1300
+        ]
+    },
+    {
+        "text": "www.ti.com",
+        "raw_text": "www.ti.com",
+        "box": [
+            499,
+            1289,
+            586,
+            1312
+        ]
+    }
+]
