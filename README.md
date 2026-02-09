@@ -28,6 +28,88 @@ Afin de construire le pipeline d'extraction le plus performant, nous avons mis e
 * **PARSeq (Permuted Autoregressive Sequence)** : Une approche novatrice qui apprend le contexte du langage via un mécanisme d'attention permuttée. Il est capable de "deviner" des caractères flous en utilisant le contexte bidirectionnel (ce qui est écrit avant et après).
 * **TrOCR (Transformer OCR)** : Un modèle génératif de Microsoft basé sur une architecture *Encoder-Decoder* classique. Il fonctionne comme un traducteur qui "traduit" l'image en texte. Très précis mais structurellement lent car il génère le texte caractère par caractère.
 
+### UML
+
+classDiagram
+    %% --- CORE ---
+    class CadPipeline {
+        - detector : BaseDetector
+        - recognizer : BaseRecognizer
+        - scale : float
+        + __init__(detector, recognizer, scale)
+        + process(image_path: str) : str
+    }
+
+    %% --- DETECTORS (Strategy Pattern) ---
+    class BaseDetector {
+        <<Abstract>>
+        + detect(image: np.ndarray) : List[int]
+    }
+
+    class EasyOcrDetector {
+        - reader : easyocr.Reader
+        + detect(image)
+    }
+
+    class DbNetDetector {
+        - model : RapidOCR
+        + detect(image)
+    }
+
+    %% --- RECOGNIZERS (Strategy Pattern) ---
+    class BaseRecognizer {
+        <<Abstract>>
+        + recognize(crop: np.ndarray) : str
+    }
+
+    class SvtrRecognizer {
+        - model : RapidOCR
+        + recognize(crop)
+    }
+
+    class ParseqRecognizer {
+        - model : torch.nn.Module
+        - transform : Transform
+        + recognize(crop)
+    }
+
+    class TrOcrRecognizer {
+        - processor : TrOCRProcessor
+        - model : VisionEncoderDecoderModel
+        + recognize(crop)
+    }
+
+    class EasyOcrRecognizer {
+        - reader : easyocr.Reader
+        + recognize(crop)
+    }
+
+    %% --- UTILS ---
+    class TextCorrector {
+        <<Static>>
+        + fix_common_errors(text: str) : str
+    }
+
+    class VisualUtils {
+        <<Static>>
+        + draw_text_unicode(img, text, pos, color) : np.ndarray
+    }
+
+    %% --- RELATIONSHIPS ---
+    BaseDetector <|-- EasyOcrDetector
+    BaseDetector <|-- DbNetDetector
+
+    BaseRecognizer <|-- SvtrRecognizer
+    BaseRecognizer <|-- ParseqRecognizer
+    BaseRecognizer <|-- TrOcrRecognizer
+    BaseRecognizer <|-- EasyOcrRecognizer
+
+    CadPipeline *-- BaseDetector : Composition
+    CadPipeline *-- BaseRecognizer : Composition
+
+    CadPipeline ..> TextCorrector : Uses
+    CadPipeline ..> VisualUtils : Uses
+
 ## Résultats du Benchmark (SOT-23 Dataset)
 
 | Detector (Localisation) | Recognizer (Lecture) | Temps (s) | Items Trouvés |
