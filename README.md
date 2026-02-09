@@ -122,4 +122,4 @@ Cependant, nous atteignons les limites des modèles pré-entraînés :
 1.  **Caractères Spéciaux :** La gestion des symboles mathématiques (°, Ø, ±) reste aléatoire.
 2.  **Chiffres :** La tolérances verticales, la reconnaissance perd en fiabilité lorsque des chiffres sont empilés verticalement (listes de cotes). Cette densité provoque des confusions fréquentes entre des chiffres morphologiquement proches (ex: le '3' lu comme un '5').
 
-**Prochaine étape :** Pour passer de 90% à 99.9% de précision, l'utilisation de modèles génériques ne suffit plus. Il sera nécessaire de procéder à un **Fine-Tuning** (Transfer Learning) sur un dataset spécifique de plans techniques annotés.
+**Prochaine étape :** Pour passer de 90% à 99.9% de précision, l'utilisation de modèles génériques ne suffit plus. Il sera nécessaire de procéder à un **Fine-Tuning** (Transfer Learning) sur un dataset spécifique de plans techniques annotés. Généraliser sur d'autres plan plus complexe (plus riche en information).
