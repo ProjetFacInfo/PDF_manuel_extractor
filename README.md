@@ -30,7 +30,7 @@ Afin de construire le pipeline d'extraction le plus performant, nous avons mis e
 
 ### UML
 
-'''mermaid
+```mermaid
 classDiagram
     %% --- CORE ---
     class CadPipeline {
@@ -111,7 +111,7 @@ classDiagram
     CadPipeline ..> TextCorrector : Uses
     CadPipeline ..> VisualUtils : Uses
 
-'''
+```
 
 
 ## Résultats du Benchmark (SOT-23 Dataset)
