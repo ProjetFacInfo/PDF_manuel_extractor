@@ -135,6 +135,7 @@ sequenceDiagram
     Pipe->>FS: Save JSON & PNG
     Pipe-->>Main: return path
     deactivate Pipe
+```
 
 
 ## Résultats du Benchmark (SOT-23 Dataset)
