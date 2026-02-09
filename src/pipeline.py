@@ -18,7 +18,7 @@ class CadPipeline:
 
     def process(self, image_path):
         if not os.path.exists(image_path):
-            print(f"❌ Fichier introuvable : {image_path}")
+            print(f" Fichier introuvable : {image_path}")
             return
 
         output_dir = "output"

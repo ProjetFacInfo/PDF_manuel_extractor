@@ -27,12 +27,5 @@ class VisualUtils:
         except AttributeError:
             pass
 
-        # 4. Dessin du texte
-        # Note: color[::-1] n'est pas nécessaire ici car on dessine sur du RGB (PIL) avec une couleur RGB.
-        # Si ta couleur d'entrée est (0, 255, 0) pour Vert, c'est bon.
-        # Si ta couleur d'entrée est BGR (OpenCV standard), il faut inverser.
-        # Dans ton main, tu passes (0, 255, 0) ou (255, 0, 0), supposons que c'est du RGB désiré.
         draw.text(position, text, font=font, fill=color[::-1])
-
-        # 5. RETOUR CORRIGÉ : On renvoie l'image PIL convertie en BGR pour OpenCV
         return cv2.cvtColor(np.array(img_pil), cv2.COLOR_RGB2BGR)

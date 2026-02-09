@@ -3,7 +3,6 @@ import time
 
 from src.utils.config import DEVICE, USE_GPU
 
-# pip install tabulate pandas
 try:
     from tabulate import tabulate
 except ImportError:
@@ -27,7 +26,6 @@ if __name__ == "__main__":
 
     print(f"Chargement des modèles sur {DEVICE}...")
 
-    # Instanciation
     detectors = [
         EasyOcrDetector(),
         DbNetDetector()
@@ -41,7 +39,7 @@ if __name__ == "__main__":
     ]
 
     results = []
-    SCALE = 4.0
+    SCALE = 4.0     # test empirique avec zoom x2, x4, x8 => x2 trop peu, x4 amélioration, x8 pas d'amélioration.
 
     print(f"\nDÉBUT DU BENCHMARK SUR {INPUT_IMAGE} ({DEVICE}) 🔥\n")
 

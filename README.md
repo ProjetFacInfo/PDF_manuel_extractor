@@ -113,6 +113,29 @@ classDiagram
 
 ```
 
+### Workflow (Diagramme de Séquence)
+
+```mermaid
+sequenceDiagram
+    Main->>Pipe: process("image.png")
+    activate Pipe
+
+    Pipe->>Pipe: Upscaling (x4.0)
+    Pipe->>Det: detect()
+    Det-->>Pipe: [Box1, Box2...]
+
+    loop Pour chaque Box
+        Pipe->>Pipe: Crop
+        Pipe->>Rec: recognize(crop)
+        Rec-->>Pipe: "raw_text"
+        Pipe->>Corr: regex_fix("raw_text")
+        Corr-->>Pipe: "Clean Text"
+    end
+
+    Pipe->>FS: Save JSON & PNG
+    Pipe-->>Main: return path
+    deactivate Pipe
+
 
 ## Résultats du Benchmark (SOT-23 Dataset)
 
